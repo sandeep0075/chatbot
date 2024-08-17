@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Change Endpoint`
+
+Change endpoint at the path - src/store/actions.js [link](https://www.cleverbot.com)
+
 ### `npm start`
 
 Runs the app in the development mode.\
